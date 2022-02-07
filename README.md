@@ -1,4 +1,4 @@
-# Art Blocks prediction models
+
 <div align="center">
 <a href="https://mail.google.com/mail/u/?authuser=elenahoo@gmail.com">
   <img align="center" alt="elenahoo | Gmail" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
@@ -28,6 +28,8 @@
   <strong>For questions, discussions and freelance work, please feel free to reach out! </strong>
 </div>
 <br />
+
+# Art Blocks prediction models
 
 A price and number of sales prediction for Art Blocks NFT. The summary results are published on Medium https://elenahoo.medium.com/art-blocks-sale-and-price-prediction-18b812259685
 
