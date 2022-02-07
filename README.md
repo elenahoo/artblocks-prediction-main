@@ -1,4 +1,34 @@
 # Art Blocks prediction models
+<div align="center">
+<a href="https://mail.google.com/mail/u/?authuser=elenahoo@gmail.com">
+  <img align="center" alt="elenahoo | Gmail" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
+	<code>elenahoo@gmail.com</code>
+</a>
+	<span> ┃ </span>
+	
+<a href="https://t.me/elenahoo">
+  <img align="center" alt="elenahoo | Telegram" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
+	<code>@elenahoo</code>
+</a>
+	<span>┃</span>
+  <a href="" style="margin-top: 12px;">
+  <img  align="center" alt="Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+	  <code>E.Hu#6754</code>
+</a>
+	<span>┃</span>
+  <a href="" style="margin-top: 12px;">
+  <img  align="center" alt="elenahoo | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+	  <code>@hoolupoodalz</code>
+</a>
+<br />
+
+</div>
+	
+<div align="center">
+  <strong>For questions, discussions and freelance work, please feel free to reach out! </strong>
+</div>
+<br />
+
 A price and number of sales prediction for Art Blocks NFT. The summary results are published on Medium https://elenahoo.medium.com/art-blocks-sale-and-price-prediction-18b812259685
 
 This notebook provides statistical & machine learning models that can predict whether a collection minted before August 1st 2021 will have a resale in August; and how much will the collection be sold for in August. 
